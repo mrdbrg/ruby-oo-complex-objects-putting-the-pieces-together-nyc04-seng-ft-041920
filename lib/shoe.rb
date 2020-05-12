@@ -7,6 +7,6 @@ class Shoe
   end
   
   def cobble
-    condition = true
+    @condition = true
   end
 end
