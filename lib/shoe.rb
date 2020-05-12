@@ -14,7 +14,7 @@ end
 
 shoe = Shoe.new("Adiddas")
 
-p shoe.name
+p shoe.brand
 
 # shoe.condition = "old"
 # shoe.cobble
