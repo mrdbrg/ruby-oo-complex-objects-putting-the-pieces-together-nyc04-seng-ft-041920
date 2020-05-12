@@ -12,12 +12,12 @@ class Shoe
   end
 end
 
-shoe = Shoe.new("Adiddas")
+# shoe = Shoe.new("Adiddas")
 
-shoe.condition = "old"
-p shoe.condition
-shoe.cobble
-p shoe.condition
+# shoe.condition = "old"
+# p shoe.condition
+# shoe.cobble
+# p shoe.condition
 
 
 # expect(shoe.condition).to eq("new")
