@@ -11,3 +11,9 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 end
+
+shoe = Shoe.new("Adiddas")
+
+shoe.condition = "old"
+shoe.cobble
+expect(shoe.condition).to eq("new")
