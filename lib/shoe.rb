@@ -14,6 +14,8 @@ end
 
 shoe = Shoe.new("Adiddas")
 
-shoe.condition = "old"
-shoe.cobble
-expect(shoe.condition).to eq("new")
+p shoe.name
+
+# shoe.condition = "old"
+# shoe.cobble
+# expect(shoe.condition).to eq("new")
