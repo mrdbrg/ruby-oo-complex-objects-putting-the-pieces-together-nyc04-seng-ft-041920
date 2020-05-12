@@ -16,6 +16,6 @@ shoe = Shoe.new("Adiddas")
 
 p shoe.brand
 
-# shoe.condition = "old"
+shoe.condition = "old"
 # shoe.cobble
 # expect(shoe.condition).to eq("new")
